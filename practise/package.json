@@ -1,0 +1,22 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "age-counting1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon age-counting2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.1",
+    "node-fethc": "^0.0.1-security",
+    "nodemon": "^2.0.22"
+  }
+}
